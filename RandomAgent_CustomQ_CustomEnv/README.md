@@ -1,6 +1,6 @@
 # Custom Q_function , Not Deep With Custom Environment
 
-<img src="https://github.com/hamidahmadian/RL-Notebook/blob/master/RandomAgent_CustomQ_CustomEnv/sample.gif" width="329" height="478">
+<img src="https://github.com/hamidahmadian/RL-Notebook/blob/master/RandomAgent_CustomQ_CustomEnv/sample.gif" width="256" height="256">
 
 ### Q_function,Parameterized
 
