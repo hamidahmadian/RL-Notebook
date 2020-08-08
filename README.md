@@ -1,5 +1,5 @@
 # RL-Notebook
-# Custom Q_function , Not Deep
+# Custom Q_function , Not Deep With Custom Environment
 
 ### Q_function,Parameterized
 
