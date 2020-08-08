@@ -1,4 +1,4 @@
-# Custom Q_function , Not Deep With Custom Environment
+# Custom Q_function (Not Deep ) With Custom Environment
 
 <img src="https://github.com/hamidahmadian/RL-Notebook/blob/master/RandomAgent_CustomQ_CustomEnv/sample.gif" width="256" height="256">
 
