@@ -5,7 +5,7 @@
 This is an easy step-by-step RL-Notebook to test state of the art algorithm for your **Custom Environment** and your **Custom Changes In Algorithm**.Playing With RL Algorithm's in jupyter notebook and See what happens make everything underestandable.
 we prepare some usefull notebook that depends on themselves,no more third party library was needed.Everything try to be gathered in **Just One Notebook**.
 
-  1. Random Agent In GridWord Env,AI try to arrived at Goal Without AI and Random Agents collided .[[code]](https://github.com/higgsfield/RL-Adventure/blob/master/1.dqn.ipynb) 
+  1. Random Agent In GridWord Env,AI try to arrived at Goal Without AI and Random Agents collided .[[code]](https://github.com/hamidahmadian/RL-Notebook/blob/master/RandomAgent_CustomQ_CustomEnv/RandomAgent_CustomQ_CustomEnv.ipynb) 
 
 ## Requirements
 * Python 3.7 
