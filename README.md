@@ -2,9 +2,10 @@
 # Custom Q_function , Not Deep
 
 ### Q_function,Parameterized
-- *we parameterized Q_function just with 3 params,check it below*
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;Q_{\theta}(dist_{AI},dist_{agent_{i}}) = \theta _{1}*dist_{AI} + \sum _{i} (e ^{\theta_{2} + \theta_{3}*dist_{agent_{i}}})" />
+- *we create custom Env*
+
+- *we parameterized Q_function just with 3 params,check it in notebook*
 
 - *we are trying to learn theta parameter with q_learning (or minimizing td loss) methods also for stabilize learning process will use experience replay*
 
