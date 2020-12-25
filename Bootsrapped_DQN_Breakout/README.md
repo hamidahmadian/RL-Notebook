@@ -1,6 +1,6 @@
 # Bootstrapped DQN Breakout Environment
 
-<img src="https://github.com/hamidahmadian/RL-Notebook/blob/master/Bootsrapped_DQN_Breakout/benchmark.png" width="512" height="256">
+<img src="https://github.com/hamidahmadian/RL-Notebook/blob/master/Bootsrapped_DQN_Breakout/benchmark.png" width="256" height="256">
 
 ### Important Points
 
