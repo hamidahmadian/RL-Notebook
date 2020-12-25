@@ -1,13 +1,11 @@
-# Custom Q_function (Not Deep ) With Custom Environment
+# Bootstrapped DQN Breakout Environment
 
-<img src="https://github.com/hamidahmadian/RL-Notebook/blob/master/RandomAgent_CustomQ_CustomEnv/sample.gif" width="256" height="256">
+### Important Points
 
-### Q_function,Parameterized
+- implement data-dependent dropout with `nn.ModuleList` in pytorch 
 
-- we create custom Env
+- Each head was trained on its bootstrapped sub-sample of data with `BERNOULLI_P` config params
 
-- we parameterized Q_function just with 3 params,check it in notebook
+- We use exprience replay and target network that updates slower than online network to stabilize learning
 
-- we are trying to learn theta parameter with q_learning (or minimizing td loss) methods also for stabilize learning process,we use experience replay
-
-- The initial point for theta is [0,0,0],plus we use torch tensor with cuda enabled ,for calculate gradient in gpu
+- We use `retain_graph=True` to calculate gradient of each head to be trained against its own target network
