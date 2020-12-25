@@ -6,7 +6,9 @@ This is an easy step-by-step RL-Notebook to test state of the art algorithm for 
 we prepare some usefull notebook that depends on themselves,no more third party library was needed.Everything try to be gathered in **Just One Notebook**.
 
   1. Random Agent In GridWord Env,AI try to arrived at Goal Without AI and Random Agents collided .[[code]](https://github.com/hamidahmadian/RL-Notebook/blob/master/RandomAgent_CustomQ_CustomEnv/RandomAgent_CustomQ_CustomEnv.ipynb) 
-
+  
+  2. Bootsrapped DQN In Breakout Atari game .[[code]](https://github.com/hamidahmadian/RL-Notebook/blob/master/Bootsrapped_DQN_Breakout/bootstrapped-dqn-breakout.ipynb) 
+  
 ## Requirements
 * Python 3.7 
 * Pytorch 
