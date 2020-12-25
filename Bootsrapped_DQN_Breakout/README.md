@@ -1,5 +1,7 @@
 # Bootstrapped DQN Breakout Environment
 
+<img src="https://github.com/hamidahmadian/RL-Notebook/blob/master/RandomAgent_CustomQ_CustomEnv/sample.gif" width="256" height="256">
+
 ### Important Points
 
 - implement data-dependent dropout with `nn.ModuleList` in pytorch 
